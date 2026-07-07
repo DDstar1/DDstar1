@@ -29,13 +29,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DDstar1&show_icons=true&hide_border=true&theme=github_dark&icon_color=22c55e&title_color=22c55e" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DDstar1&hide_border=true&theme=github-dark&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
-</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDstar1&layout=compact&hide_border=true&theme=github_dark&title_color=22c55e" />
