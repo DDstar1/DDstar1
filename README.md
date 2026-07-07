@@ -7,4 +7,4 @@ All about bringing ideas to life, one commit at a time.
 - 🔭 Currently building **StratVault** — honestly backtesting viral trading strategies
 - 🛠️ Full-stack: Next.js · React · TypeScript · Python · FastAPI · Supabase
 - ⚡ I care about clean code, real data, and shipping things people actually use
-- 📫 Reach me: [email / site]
+- 📫 Reach me: abhuluimendestiny@gmail.com
